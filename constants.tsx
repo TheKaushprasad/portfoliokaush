@@ -11,7 +11,7 @@ export const PERSONAL_INFO = {
   linkedin: "https://www.linkedin.com/in/kaushalprasadkaush7/",
   twitter: "https://twitter.com/kaushalprasad",
   github: "https://github.com/kaushalprasad",
-  resume: "https://drive.google.com/file/d/1PBsoidwX4lPCj6KxAhfqG4EZHatFf04e/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/1MNAzsRsR7R6np39hwHMkelGHGZfeMeta/view?usp=sharing", 
 };
 
 export const SKILLS: SkillCategory[] = [
