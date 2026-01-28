@@ -10,8 +10,8 @@ const About: React.FC = () => {
   const generateCartoonAvatar = async () => {
     setIsGenerating(true);
     try {
-      // Initialize the AI client
-      const ai = new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+      // Initialize the AI client using the injected API Key
+      const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
       
       // Request a high-quality cartoon generation
       const response = await ai.models.generateContent({
