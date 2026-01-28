@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   role: "Product Manager | AI · SaaS · HealthTech · Communities",
   email: "Prasadkaushal3@gmail.com",
   phone: "+91 8093786521",
-  linkedin: "https://www.linkedin.com/in/kaushalprasad/",
+  linkedin: "https://www.linkedin.com/in/kaushalprasadkaush7/",
   twitter: "https://twitter.com/kaushalprasad",
   github: "https://github.com/kaushalprasad",
   resume: "https://drive.google.com/file/d/1PBsoidwX4lPCj6KxAhfqG4EZHatFf04e/view?usp=sharing", 
